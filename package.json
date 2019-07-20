@@ -1,0 +1,11 @@
+{
+  "name": "use-prettier",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/sw110/use-prettier.git",
+  "author": "sw110 <2965221945@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "^1.18.2"
+  }
+}
